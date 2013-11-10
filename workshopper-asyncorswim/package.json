@@ -1,0 +1,16 @@
+{
+  "name": "workshopper-asyncorswim",
+  "version": "0.0.1",
+  "description": "A workshopper choose your own adventure for nodejs async",
+  "main": "asyncorswim.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tom Wilson",
+  "license": "MIT",
+  "dependencies": {
+    "workshopper": "~0.4.0",
+    "async": "~0.2.9"
+  },
+  "bin": "asyncorswim.js"
+}
